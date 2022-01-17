@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "STL",
+    "slug": "STL",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "STL"
+}
